@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cochiefaa.ryanl.me/sitemap.xml
